@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Meles Zawude</h1>
-<h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
+<h3 align="center">Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meles-z&label=Profile%20views&color=0e75b6&style=flat" alt="meles-z" /> </p>
 
 <p align="left"> <a href="https://twitter.com/meles_zawude" target="blank"><img src="https://img.shields.io/twitter/follow/meles_zawude?logo=twitter&style=for-the-badge" alt="meles_zawude" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,AI**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **react, golang**
+- 💬 Ask me about **Golang, System Desing**
 
 - 📫 How to reach me **meles.zawdie@gmail.com**
 
