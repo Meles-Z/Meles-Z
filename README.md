@@ -6,11 +6,12 @@
 *Building backend systems that are fast by design and reliable by default.*
 
 </div>
+---
 📬 Contact
 
-• ✉️ meles.zawdie@gmail.com  
-• 🐦 @meles_zawude  
-• 💼 https://www.linkedin.com/in/meles-zawude/
+ •  ✉️ meles.zawdie@gmail.com  
+ •  🐦 @meles_zawude  
+ •  💼 https://www.linkedin.com/in/meles-zawude/
 
 ---
 
