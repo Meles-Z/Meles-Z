@@ -21,20 +21,12 @@
 
 ---
 
-### 💼 Key Projects
-- **Payment Gateway System** – Secure and scalable microservices handling transactions  
-- **Core Banking Integration** – High-reliability service communication system  
-- **Air Reservation System** – Distributed backend handling high request loads  
-- **Mortgage Platform** – Backend services with complex business logic  
-
----
-
 ### 🛠 Tech Stack
-**Backend:**  
-`Go (Golang)` • `gRPC` • `REST APIs` • `Microservices`
+**Languages:**  
+`Go (Golang)` • `C++` • `C` • `Rust`
 
-**Frontend:**  
-`Angular` • `Tailwind CSS`
+**Backend & Systems:**  
+`gRPC` • `REST APIs` • `Microservices` • `Distributed Systems`
 
 **DevOps & Cloud:**  
 `Docker` • `Kubernetes` • `ArgoCD` • `CI/CD`
@@ -54,9 +46,3 @@
 ### ⚡ Philosophy
 > Build simple, scalable systems.  
 > Focus on performance, reliability, and clean design.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meles-z&show_icons=true&hide_border=true" />
-</p>
