@@ -23,7 +23,7 @@
 
 ### 🛠 Tech Stack
 **Languages:**  
-`Go (Golang)` • `C++` • `C` • `Rust`
+`Go (Golang)` • `C++` • `C` • `Rust` • `JavaScript` • `Dart(Flutter)`
 
 **Backend & Systems:**  
 `gRPC` • `REST APIs` • `Microservices` • `Distributed Systems`
