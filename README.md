@@ -34,6 +34,8 @@
 **Databases:**  
 `PostgreSQL` • `MongoDB` • `Redis`
 
+**Messaging Queue:**  
+`Kafka` • `RabbitMQ` • `NATS`
 ---
 
 ### 📫 Contact Me
