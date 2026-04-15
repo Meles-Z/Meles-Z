@@ -6,10 +6,11 @@
 *Building backend systems that are fast by design and reliable by default.*
 
 </div>
+📬 Contact
 
-✉️ meles.zawdie@gmail.com  
-🐦 @meles_zawude  
-💼 linkedin.com/in/meles-zawude-7b8207284
+• ✉️ meles.zawdie@gmail.com  
+• 🐦 @meles_zawude  
+• 💼 linkedin.com/in/meles-zawude-7b8207284
 
 ---
 
@@ -24,8 +25,6 @@ type Meles struct {
 ---
 
 <div align="center">
-
-`Go` · `Rust` · `gRPC` · `REST` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
 
 *Simple systems. Reliable software. Real impact.*
 
