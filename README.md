@@ -1,47 +1,32 @@
-<h1 align="center">Hi 👋, I'm Meles Zawude</h1>
-<h3 align="center">Golang Developer | Distributed Systems</h3>
+<div align="center">
 
-<p align="center">
-Building reliable backend systems with <b>Go</b>.<br>
-Designing distributed systems that scale.<br>
-Solving real-world problems with clean engineering.
-</p>
+# Meles Zawude
+**Golang Engineer · Distributed Systems**
 
-<p align="center">
-<i>Coding obsessively. Building with purpose.</i>
-</p>
----
+*Building backend systems that are fast by design and reliable by default.*
 
-## 🚀 Focus
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail)](mailto:meles.zawdie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meles-zawude-7b8207284/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/meles_zawude)
 
-⚙️ Golang Backend Development  
-🌐 Distributed Systems  
-🧩 Microservices Architecture  
-⚡ Performance & Reliability  
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-`Go` `Rust` `C++` `C`
-
-**Infrastructure**
-
-`Docker` `Kubernetes` `ArgoCD` `CI/CD`
-
-**Databases**
-
-`PostgreSQL` `MongoDB` `Redis`
-
-**Messaging**
-
-`Kafka` `RabbitMQ` `NATS`
+</div>
 
 ---
 
-## 📫 Connect With Me
+```go
+type Meles struct {
+    Stack  []string{"Go", "Rust", "C++", "gRPC", "Kafka", "PostgreSQL", "Redis", "K8s"}
+    Focus  string  // Distributed systems · Microservices · Performance
+    Belief string  // "Reliability is a feature. Performance is respect."
+}
+```
 
-✉️ **Email:** meles.zawdie@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/meles-zawude-7b8207284/  
-🐦 **Twitter:** https://twitter.com/meles_zawude
+---
+
+<div align="center">
+
+`Go` · `Rust` · `gRPC` · `REST` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
+
+*Simple systems. Reliable software. Real impact.*
+
+</div>
