@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meles Zawude
+# Meles Zewde
 **Golang Engineer | Distributed Systems**
 
 *Building backend systems that are fast by design and reliable by default.*
