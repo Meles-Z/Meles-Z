@@ -38,9 +38,7 @@
 
 ### 📫 Contact Me
 - Email: **meles.zawdie@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/meles-zawude-7b8207284/  
-- Twitter: https://twitter.com/meles_zawude  
-
+- LinkedIn: https://www.linkedin.com/in/meles-zawude/
 ---
 
 ### ⚡ Philosophy
