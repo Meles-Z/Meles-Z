@@ -10,7 +10,7 @@
 
 • ✉️ meles.zawdie@gmail.com  
 • 🐦 @meles_zawude  
-• 💼 linkedin.com/in/meles-zawude-7b8207284
+• 💼 https://www.linkedin.com/in/meles-zawude/
 
 ---
 
