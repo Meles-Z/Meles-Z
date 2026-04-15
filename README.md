@@ -1,18 +1,19 @@
 <div align="center">
 
 # Meles Zewde
-**Golang Engineer | Distributed Systems**
+**Golang Engineer · Distributed Systems**
 
 *Building backend systems that are fast by design and reliable by default.*
 
 </div>
 
+---
 
-📬 Contact
+**📬 Contact**
 
- •  ✉️ meles.zawdie@gmail.com  
- •  🐦 @meles_zawude  
- •  💼 https://www.linkedin.com/in/meles-zawude/
+- ✉️ meles.zawdie@gmail.com
+- 🐦 [@meles_zawude](https://twitter.com/meles_zawude)
+- 💼 [linkedin.com/in/meles-zawude](https://www.linkedin.com/in/meles-zawude/)
 
 ---
 
@@ -28,6 +29,6 @@ type Meles struct {
 
 <div align="center">
 
-*Build simple systems. Reliable software. Real impact.*
+*Simple systems. Reliable software. Real impact.*
 
 </div>
