@@ -26,6 +26,6 @@ type Meles struct {
 
 <div align="center">
 
-*Simple systems. Reliable software. Real impact.*
+*Build simple systems. Reliable software. Real impact.*
 
 </div>
